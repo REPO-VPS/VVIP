@@ -586,7 +586,7 @@ echo -e " $PURPLE│$NC "
 echo -e " $PURPLE│$NC   ${COLOR1}[${BLUE}00${NC}]  Go Back"
 echo -e " $PURPLE└───────────────────────────────────────────────┘${NC}"
 echo -e "$PURPLE┌──────────────────────${NC} BY $PURPLE───────────────────────┐${NC}"
-echo -e "$PURPLE│${BLUE}                 $NC•$BLUE FranataSTORE $NC•                $PURPLE│$NC"
+echo -e "$PURPLE│${BLUE}                 $NC•$BLUE JurigVPN $NC•                $PURPLE│$NC"
 echo -e "$PURPLE└─────────────────────────────────────────────────┘${NC}" 
 echo -e ""
 read -p " Select menu :  "  opt
