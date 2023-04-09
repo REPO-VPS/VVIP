@@ -183,7 +183,7 @@ echo -e "  ${BLUE}• ${GREEN}Current Domain      ${NC}= $( cat /etc/xray/domain
 echo -e "  ${BLUE}• ${GREEN}Server IP           ${NC}= ${IP}"
 echo -e "  ${BLUE}• ${GREEN}ISP-VPS             ${NC}= ${ISP}"
 echo -e "  ${BLUE}• ${GREEN}City                ${NC}= ${CITY}"
-echo -e "  ${BLUE}• ${GREEN}Clients Name        ${NC}= $Name"
+echo -e "  ${BLUE}• ${GREEN}Clients Name        ${NC}= ${YELLOW}$Name ${NC}"
 echo -e "  ${BLUE}• ${GREEN}Script Expert       ${NC}= ${YELLOW}$Exp ${NC}"
 echo -e "  ${BLUE}• ${GREEN}Developer           ${NC}= JurigVPN Tunneling ${NC}"
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
